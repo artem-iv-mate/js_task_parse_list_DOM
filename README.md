@@ -13,7 +13,7 @@ Your task: Sort list by salary in descending order.
 Get an array of employees. Write two functions: 
 - first, which sorts the list by salary from data attributes
 - second, which returns an array of objects, where objects are employees.
-
+test
 The schema for the employee:
 ```
 {
